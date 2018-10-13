@@ -30,3 +30,7 @@ C:\Users\ciiv\source\repos\FGCSrbijaWeb\FGCSrbijaWeb\obj\Debug\netcoreapp2.1\FGC
 C:\Users\ciiv\source\repos\FGCSrbijaWeb\FGCSrbijaWeb\obj\Debug\netcoreapp2.1\FGCSrbijaWeb.dll
 C:\Users\ciiv\source\repos\FGCSrbijaWeb\FGCSrbijaWeb\obj\Debug\netcoreapp2.1\FGCSrbijaWeb.pdb
 C:\Users\ciiv\source\repos\FGCSrbijaWeb\FGCSrbijaWeb\obj\Debug\netcoreapp2.1\FGCSrbijaWeb.csproj.CopyComplete
+C:\Users\ciiv\source\repos\FGCSrbijaWeb\FGCSrbijaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Twitch.g.cshtml.cs
+C:\Users\ciiv\source\repos\FGCSrbijaWeb\FGCSrbijaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Meetups.g.cshtml.cs
+C:\Users\ciiv\source\repos\FGCSrbijaWeb\FGCSrbijaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Tournaments.g.cshtml.cs
+C:\Users\ciiv\source\repos\FGCSrbijaWeb\FGCSrbijaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Register.g.cshtml.cs
